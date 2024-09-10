@@ -1,5 +1,5 @@
 import React from 'react'
-import asd from '../assets/Ejemplo2.jpg';
+import asd from '../assets/ejemplo2.jpg';
 import Information from '../components/Information';
 import Slider from '../components/Slider';
 
